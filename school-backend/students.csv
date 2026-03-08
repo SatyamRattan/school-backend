@@ -1,0 +1,4 @@
+first_name,last_name,email,date_of_birth,gender,admission_number,parent_email,parent_name,parent_phone
+John,Doe,john.doe@school.com,2010-05-15,Male,ADM001,parent.doe@school.com,Mr. Doe,9876543210
+Jane,Smith,jane.smith@school.com,2011-08-20,Female,ADM002,parent.smith@school.com,Mrs. Smith,9876543211
+Alice,Wonder,alice.wonder@school.com,2012-01-10,Female,ADM003,parent.wonder@school.com,Mr. Wonder,9876543212

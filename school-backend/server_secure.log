@@ -1,0 +1,511 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+[02/Mar/2026 06:40:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+[02/Mar/2026 06:41:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+/home/satyam/Downloads/SMS - Backend/core/__init__.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:40:31
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/core/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:41:44
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/notifications/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:42:02
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/students/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:42:08
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/students/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:42:19
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[02/Mar/2026 06:42:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+/home/satyam/Downloads/SMS - Backend/core/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:42:22
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[02/Mar/2026 06:43:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+[02/Mar/2026 06:44:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+[02/Mar/2026 06:45:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+/home/satyam/Downloads/SMS - Backend/core/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:42:36
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[02/Mar/2026 06:46:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+/home/satyam/Downloads/SMS - Backend/core/middleware.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:46:23
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/management/apps.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:46:37
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/core/db_router.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:46:50
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/core/middleware.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:46:58
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/users/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:47:04
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/users/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:47:19
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[02/Mar/2026 06:47:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+/home/satyam/Downloads/SMS - Backend/management/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:47:27
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/management/commands/runserver.py", line 124, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/autoreload.py", line 86, in raise_last_exception
+    raise _exception[1]
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/management/__init__.py", line 394, in execute
+    autoreload.check_errors(django.setup)()
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/apps/registry.py", line 116, in populate
+    app_config.import_models()
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/apps/config.py", line 269, in import_models
+    self.models_module = import_module(models_module_name)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/satyam/Downloads/SMS - Backend/management/models.py", line 3, in <module>
+    class School(models.Model):
+                 ^^^^^^
+NameError: name 'models' is not defined
+/home/satyam/Downloads/SMS - Backend/management/models.py changed, reloading.
+Watching for file changes with StatReloader
+[02/Mar/2026 06:48:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+[02/Mar/2026 06:49:32] "GET /api/notifications/ HTTP/1.1" 200 1810
+/home/satyam/Downloads/SMS - Backend/core/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:47:59
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/students/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:58:02
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/academics/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:58:53
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/students/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 06:58:54
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/core/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 07:01:15
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/satyam/Downloads/SMS - Backend/core/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 02, 2026 - 07:03:21
+Django version 5.2.11, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 179, in import_from_string
+    return import_string(val)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'users.authentication'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/checks/urls.py", line 136, in check_custom_error_handlers
+    handler = resolver.resolve_error_handler(status_code)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 732, in resolve_error_handler
+    callback = getattr(self.urlconf_module, "handler%s" % view_type, None)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/satyam/Downloads/SMS - Backend/core/urls.py", line 24, in <module>
+    path('api/management/', include('management.urls')),
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/urls/conf.py", line 39, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/satyam/Downloads/SMS - Backend/management/urls.py", line 2, in <module>
+    from rest_framework.routers import DefaultRouter
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/routers.py", line 22, in <module>
+    from rest_framework import views
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/views.py", line 18, in <module>
+    from rest_framework.schemas import DefaultSchema
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/schemas/__init__.py", line 33, in <module>
+    authentication_classes=api_settings.DEFAULT_AUTHENTICATION_CLASSES,
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 227, in __getattr__
+    val = perform_import(val, attr)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 170, in perform_import
+    return [import_from_string(item, setting_name) for item in val]
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 182, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'users.authentication.CookieJWTAuthentication' for API setting 'DEFAULT_AUTHENTICATION_CLASSES'. ModuleNotFoundError: No module named 'users.authentication'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 179, in import_from_string
+    return import_string(val)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'users.authentication'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/management/base.py", line 496, in check
+    all_issues = checks.run_checks(
+                 ^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/checks/registry.py", line 89, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/checks/urls.py", line 138, in check_custom_error_handlers
+    path = getattr(resolver.urlconf_module, "handler%s" % status_code)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/satyam/Downloads/SMS - Backend/core/urls.py", line 24, in <module>
+    path('api/management/', include('management.urls')),
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/urls/conf.py", line 39, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/satyam/Downloads/SMS - Backend/management/urls.py", line 2, in <module>
+    from rest_framework.routers import DefaultRouter
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/routers.py", line 22, in <module>
+    from rest_framework import views
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/views.py", line 18, in <module>
+    from rest_framework.schemas import DefaultSchema
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/schemas/__init__.py", line 33, in <module>
+    authentication_classes=api_settings.DEFAULT_AUTHENTICATION_CLASSES,
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 227, in __getattr__
+    val = perform_import(val, attr)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 170, in perform_import
+    return [import_from_string(item, setting_name) for item in val]
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/settings.py", line 182, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'users.authentication.CookieJWTAuthentication' for API setting 'DEFAULT_AUTHENTICATION_CLASSES'. ModuleNotFoundError: No module named 'users.authentication'.
+/home/satyam/Downloads/SMS - Backend/core/settings.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+Internal Server Error: /api/users/auth/login/
+Traceback (most recent call last):
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/users/auth_views.py", line 14, in post
+    response = super().post(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework_simplejwt/views.py", line 46, in post
+    serializer.is_valid(raise_exception=True)
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 447, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework_simplejwt/serializers.py", line 73, in validate
+    data = super().validate(attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/rest_framework_simplejwt/serializers.py", line 54, in validate
+    self.user = authenticate(**authenticate_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 114, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/satyam/Downloads/SMS - Backend/venv/lib/python3.12/site-packages/django/contrib/auth/backends.py", line 65, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TenantManager' object has no attribute 'get_by_natural_key'
+[02/Mar/2026 07:20:08] "POST /api/users/auth/login/ HTTP/1.1" 500 146529
